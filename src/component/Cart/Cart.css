@@ -5,3 +5,11 @@
     background-color:lightgrey;
      box-shadow: 5px 5px 10px #888888;
 }
+.reviewBtn{
+    background-color:orange;
+    padding: 5px 15px;
+    margin: 0 auto;
+    text-decoration: none;
+    color: #000;
+    border-radius: 10px;
+}
